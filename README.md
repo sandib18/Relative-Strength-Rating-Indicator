@@ -64,14 +64,6 @@ Here is an example of what the RS Rating will look like on the chart:
 3. The RS Rating will be calculated and updated based on the performance of the stock relative to the S&P 500.
 4. RS new highs and lows will be displayed as blue and red dots respectively, indicating significant changes in relative strength.
 
-## License
-
-This script is open-source and can be freely used and modified. Please see the [LICENSE](./LICENSE) file for more details.
-
 ## Acknowledgments
 
 This script is based on the work of [Skyte](https://github.com/Skyte) and has been modified for improved performance and additional features. The relative strength calculation is inspired by the [rs-log](https://github.com/Fred6725/rs-log) repository.
-
-## Disclaimer
-
-The data and calculations provided by this script are for informational purposes only and should not be considered as financial advice. Use this tool at your own risk.
